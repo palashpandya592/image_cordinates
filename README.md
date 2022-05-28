@@ -1,16 +1,10 @@
-# image_coordinatesdemo
 
-A new Flutter project.
+# Image cordinates
 
-## Getting Started
+Demo For get cordinates from image and enable zoom so user can able to zoom image and get cordinates from image.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on
-mobile development, and a full API reference.
+https://user-images.githubusercontent.com/80236384/170811561-72a8e22c-369a-432e-8fca-b7022865455f.mp4
+
